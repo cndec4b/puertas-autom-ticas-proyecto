@@ -6,7 +6,7 @@
 
 MFRC522 mfrc522(SS_PIN, RST_PIN);
 
-// UID de tu tarjeta autorizada (modificalo por el tuyo)
+
 byte tarjetaAutorizada[4] = {0xBC, 0x3B, 0xCB, 0x06};
 
 void setup() {
