@@ -1,0 +1,13 @@
+# Archivos temporales y compilación
+build/
+core/
+*.hex
+*.bin
+*.elf
+.pio/
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
